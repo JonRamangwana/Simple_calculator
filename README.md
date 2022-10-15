@@ -1,4 +1,4 @@
-<ins>Simple calculator/ins><br>
+<ins>Simple calculator</ins><br>
 <ins>Information</ins><br>
 
   A mini project to make a simple calculator with Python .<br>
